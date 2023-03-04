@@ -1,13 +1,13 @@
-Notes For CSE B-Tech  
+# Notes For CSE B-Tech  
 
-    These Notes were made for **Gate Exams** 
+    These Notes were made for ** Gate Exams ** 
 	
-##Hello There!!  
+## Hello There!!  
 
 Searching CSE Handwritten Quick Notes for the next test or competitive exams?  
 You found the right place!  
 
-##SYLLABUS
+## SYLLABUS
 1. Maths  
 	-Discrete Mathematics  
 	-Engineering Mathematics  
@@ -22,7 +22,7 @@ You found the right place!
 10. Compiler Design  
 11. General Aptitude  
   
-  	Above Syllabus is for Gate & what will be uploaded on this Repo as soon as notes are made!  
+	***Above Syllabus is for Gate & what will be uploaded on this Repo as soon as notes are made!***  
 	
 Good Luck Mates!  
 
