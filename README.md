@@ -1,11 +1,14 @@
-# Notes For CSE B-Tech  
+# Notes & Material For CSE B-Tech  
 
-    These Notes were made for ** Gate Exams ** 
+    These Notes were made for ** Gate Exams ** & notes will be inclined to it!
 	
 ## Hello There!!  
 
 Searching CSE Handwritten Quick Notes for the next test or competitive exams?  
 You found the right place!  
+Other Materials for reference also will be provided along with HandWritten Notes.  
+
+	* References to videos from where notes were written is mentioned in NOTES itself! *
 
 ## SYLLABUS
 1. Maths  
